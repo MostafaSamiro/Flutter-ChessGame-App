@@ -69,7 +69,7 @@ Writing clean, scalable, and maintainable code
 
 Explore the Chess Game app with these screenshots:
 
-![Screenshot 1](Clean and Modern App Portfolio Mockup Presentation.jpg)
+![Screenshot 1](1.jpg)
 
 
 ## 🎥 Demo Chess Game 
